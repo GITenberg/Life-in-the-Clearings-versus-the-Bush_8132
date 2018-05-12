@@ -1,4 +1,8 @@
 _repo: Life-in-the-Clearings-versus-the-Bush_8132
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Moodie, Susanna
@@ -23,6 +27,8 @@ description: Written as a sequel to her groundbreaking memoir <Roughing it in th
   of literature to life in digital format, upholding the highest standards in ebook
   production and celebrating reading in all its forms. Look for more titles in the
   HarperPerennial Classics collection to build your digital library.</
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8132#Life-in-the-Clearings-versus-the-Bush
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
